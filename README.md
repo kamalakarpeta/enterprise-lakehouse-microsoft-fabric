@@ -1,8 +1,8 @@
 # Enterprise Lakehouse on Microsoft Fabric
 
-> A unified, governed lakehouse that serves BI users, analysts and data scientists from one copy of data · **~2026** · Microsoft Fabric
+> A unified, governed lakehouse that serves BI users, analysts and data scientists from one copy of data · **2026 (present)** · Microsoft Fabric
 
-**Role:** Data & AI Platform Architect
+**Role:** Data & AI Platform Architect · *(2025–present — current role)*
 **Type:** Portfolio case study — architecture & approach are representative; production code is proprietary.
 
 ---
@@ -11,7 +11,7 @@
 
 Business stakeholders, **data analysts and data scientists** all needed trustworthy, current data — but were pulling from disconnected warehouses, extracts and one-off models, each with its own copy and its own version of the truth.
 
-This project (**circa 2026**) is a **data engineering** build on **Microsoft Fabric**: ingest with **Data Factory**, land and refine in **OneLake** as a **medallion** lakehouse using **PySpark notebooks**, and serve a single governed **Gold** layer to every consumer — **Power BI** users via a **Direct Lake** semantic model, analysts via SQL, and data scientists via the same OneLake tables. It deliberately mirrors my Databricks lakehouse work to show I deliver the same engineering outcomes on **both platforms** — and it is one of my two current headline strengths, alongside Databricks GenAI.
+This project (**2026, present focus**) is a **data engineering** build on **Microsoft Fabric**: ingest with **Data Factory**, land and refine in **OneLake** as a **medallion** lakehouse using **PySpark notebooks**, and serve a single governed **Gold** layer to every consumer — **Power BI** users via a **Direct Lake** semantic model, analysts via SQL, and data scientists via the same OneLake tables. It deliberately mirrors my Databricks lakehouse work to show I deliver the same engineering outcomes on **both platforms** — and it is one of my two current headline strengths, alongside Databricks GenAI.
 
 ## Architecture
 
@@ -66,7 +66,7 @@ flowchart LR
 
 ## Where this sits in my journey
 
-Part of my **Data & AI Platform Architect** portfolio — the **~2026 Microsoft Fabric** stage, one of my two current headline strengths.
+Part of my **Data & AI Platform Architect** portfolio — the **2026 (present) Microsoft Fabric** stage, one of my two current headline strengths.
 
 ⏮ prev: [financial-research-rag-databricks-genai](https://github.com/kamalakarpeta/financial-research-rag-databricks-genai) · ⏭ next: _(latest — current focus)_
 Full journey: https://kamalakarpeta.github.io
